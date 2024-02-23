@@ -8,8 +8,8 @@ body {
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
-h1,<text-align: center> <60px>
-h2,<text-align: center> <55px>
+h1,<centered> <60px>
+h2,<centered> <55px>
 h3 {
   font-family: "Playfair Display", Times, serif;
 }
