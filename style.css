@@ -48,6 +48,7 @@ hr {
 }
 
 /* Add your solution below */
+ul, li { margin: 0; padding: 0; }
 
 .image-circle {
 }
